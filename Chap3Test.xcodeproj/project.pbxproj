@@ -16,6 +16,9 @@
 		835F8D3D25A07093006DCC51 /* chap3Navi~ListSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835F8D3C25A07093006DCC51 /* chap3Navi~ListSection.swift */; };
 		835F8D3F25A07729006DCC51 /* chap3Geometry~Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835F8D3E25A07729006DCC51 /* chap3Geometry~Frame.swift */; };
 		835F8D4125A09390006DCC51 /* chap3Frame~Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835F8D4025A09390006DCC51 /* chap3Frame~Layout.swift */; };
+		8361AF3E25A1B67C002875EF /* chap5State.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8361AF3D25A1B67C002875EF /* chap5State.swift */; };
+		8361AF4225A1D901002875EF /* chap5Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8361AF4125A1D901002875EF /* chap5Alert.swift */; };
+		8361AF4425A1E10C002875EF /* chap5Presentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8361AF4325A1E10C002875EF /* chap5Presentation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +33,9 @@
 		835F8D3C25A07093006DCC51 /* chap3Navi~ListSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "chap3Navi~ListSection.swift"; sourceTree = "<group>"; };
 		835F8D3E25A07729006DCC51 /* chap3Geometry~Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "chap3Geometry~Frame.swift"; sourceTree = "<group>"; };
 		835F8D4025A09390006DCC51 /* chap3Frame~Layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "chap3Frame~Layout.swift"; sourceTree = "<group>"; };
+		8361AF3D25A1B67C002875EF /* chap5State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chap5State.swift; sourceTree = "<group>"; };
+		8361AF4125A1D901002875EF /* chap5Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chap5Alert.swift; sourceTree = "<group>"; };
+		8361AF4325A1E10C002875EF /* chap5Presentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chap5Presentation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +74,9 @@
 				835F8D3C25A07093006DCC51 /* chap3Navi~ListSection.swift */,
 				835F8D3E25A07729006DCC51 /* chap3Geometry~Frame.swift */,
 				835F8D4025A09390006DCC51 /* chap3Frame~Layout.swift */,
+				8361AF3D25A1B67C002875EF /* chap5State.swift */,
+				8361AF4125A1D901002875EF /* chap5Alert.swift */,
+				8361AF4325A1E10C002875EF /* chap5Presentation.swift */,
 				835F8D2E259F1586006DCC51 /* Assets.xcassets */,
 				835F8D33259F1586006DCC51 /* LaunchScreen.storyboard */,
 				835F8D36259F1586006DCC51 /* Info.plist */,
@@ -158,8 +167,11 @@
 				835F8D4125A09390006DCC51 /* chap3Frame~Layout.swift in Sources */,
 				835F8D29259F1583006DCC51 /* AppDelegate.swift in Sources */,
 				835F8D2B259F1583006DCC51 /* SceneDelegate.swift in Sources */,
+				8361AF4225A1D901002875EF /* chap5Alert.swift in Sources */,
 				835F8D3F25A07729006DCC51 /* chap3Geometry~Frame.swift in Sources */,
 				835F8D3D25A07093006DCC51 /* chap3Navi~ListSection.swift in Sources */,
+				8361AF4425A1E10C002875EF /* chap5Presentation.swift in Sources */,
+				8361AF3E25A1B67C002875EF /* chap5State.swift in Sources */,
 				835F8D2D259F1583006DCC51 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
